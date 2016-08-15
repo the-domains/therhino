@@ -1,0 +1,14 @@
+layout_spectrum: 0.6880538505502045
+typography_spectrum: 0.7556264621671289
+color:
+  brandStrength: 0.931974284350872
+  lightness: 0.46578092174604535
+  saturation: 0.17128837737254798
+  rhythmicContrast: 0.304881424177438
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: theRhino
